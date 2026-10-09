@@ -36,7 +36,7 @@ The sample code is intentionally simplified. That is by design.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ANI-IN/context-management-for-ml-engineers.git
+git clone https://github.com/ANI-IN/context-management.git
 cd context-management-for-ml-engineers
 ```
 
