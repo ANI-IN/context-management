@@ -37,7 +37,7 @@ The sample code is intentionally simplified. That is by design.
 
 ```bash
 git clone https://github.com/ANI-IN/context-management.git
-cd context-management-for-ml-engineers
+cd context-management
 ```
 
 2. Create a virtual environment and install the project with its development tools:
